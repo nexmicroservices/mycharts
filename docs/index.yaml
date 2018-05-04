@@ -3,11 +3,20 @@ entries:
   notificationchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-05-04T06:36:08.125812306-04:00
+    created: 2018-05-04T06:56:14.444746996-04:00
     description: A Helm chart for Kubernetes
-    digest: cf2242299f48596da863c7dba1b622cfc5aaaa0a2061216d97dfc3fdb77b620b
+    digest: cc9aab94e62417b47e99cea619ac5b432da76e2d4772b3e940a022c713b66e28
+    name: notificationchart
+    urls:
+    - https://schaillonorg.github.io/mycharts/notificationchart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-05-04T06:56:14.444385466-04:00
+    description: A Helm chart for Kubernetes
+    digest: 604122a20c05a935d817f5fbd48d5982ed2ed1d264e9f9bb6996a42730cc4a2b
     name: notificationchart
     urls:
     - https://schaillonorg.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-05-04T06:36:08.124990051-04:00
+generated: 2018-05-04T06:56:14.443565892-04:00
