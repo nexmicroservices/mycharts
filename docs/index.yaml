@@ -8,6 +8,6 @@ entries:
     digest: cf2242299f48596da863c7dba1b622cfc5aaaa0a2061216d97dfc3fdb77b620b
     name: notificationchart
     urls:
-    - https://schaillonorg.github.io/mycharts/notificationchart-0.1.0.tgz
-    version: 0.1.0
+    - https://schaillonorg.github.io/mycharts/notificationchart-0.1.1.tgz
+    version: 0.1.1
 generated: 2018-05-04T06:36:08.124990051-04:00
