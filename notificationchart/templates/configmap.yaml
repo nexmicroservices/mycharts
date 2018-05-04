@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+name: {{ .Release.Name }}-configmap1
+data:
+IBM Software
+Page 22
+myvalue: {{ .Values.myvalue }}
